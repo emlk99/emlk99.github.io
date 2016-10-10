@@ -9,9 +9,33 @@ h1 {
 element.style {
 }
 
-}
-Inherited from div#info_container
-#info_container {
-    font-size: 22px;
 
+
+:hov
+
+
+.cls
+
+element.style {
+}
+
+a:visited {
+    color: #42006a;
+}
+a {
+    color: #8b00e0;
+    font-weight: bold;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    text-decoration: underline;
+    cursor: auto;
+}
+Inherited from body#index
+body {
+    font-family: Arial, sans-serif;
+    color: #5f5f5f;
+    letter-spacing: 2px;
+}
   
