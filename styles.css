@@ -6,6 +6,9 @@ h1 {
     padding: 0;
 }
 
+element.style {
+}
+
 #tornado {
   width: 500px;
 }
