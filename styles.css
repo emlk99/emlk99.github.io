@@ -9,6 +9,7 @@ h1 {
  nav {
     width: 100%;
     color: white;
+    text-decoration-color: white;
     display: inline-block;
     text-align: center;
     padding: 0;
@@ -36,10 +37,11 @@ element.style {
 }
 
 a:visited {
-    color: #42006a;
+    color: white;
 }
+
 a {
-    color: #8b00e0;
+    color: red;
     font-weight: bold;
 }
 user agent stylesheet
