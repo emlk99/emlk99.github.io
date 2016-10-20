@@ -6,7 +6,7 @@ h1 {
     padding: 0;
 }
 
- #nav {
+ nav {
     width: 100%;
     display: inline-block;
     text-align: center;
@@ -18,7 +18,8 @@ h1 {
     margin-left: 0px;  // looks like bootstrap is putting a left margin on your #nav you may want it off.
 
 }
-#nav li {
+
+nav li {
    display: inline-block;
    text-align:center; 
 }
